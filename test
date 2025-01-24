@@ -1,0 +1,11 @@
+[1mdiff --git a/myfile.py b/myfile.py[m
+[1mindex dd4e2e3..87080b0 100644[m
+[1m--- a/myfile.py[m
+[1m+++ b/myfile.py[m
+[36m@@ -1 +1,3 @@[m
+[31m-print('hi -newrepo')[m
+\ No newline at end of file[m
+[32m+[m[32mprint('hi -newrepo')[m
+[32m+[m
+[32m+[m[32mprint('1- newfeature')[m
+\ No newline at end of file[m
